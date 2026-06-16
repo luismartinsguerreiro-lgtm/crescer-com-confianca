@@ -1,0 +1,6 @@
+{
+  "name": "Crescer com Confiança",
+  "description": "Uma aplicação educativa, segura e responsável para raparigas adolescentes sobre higiene, saúde íntima, autocuidado, segurança pessoal e diário privado para o público de Portugal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

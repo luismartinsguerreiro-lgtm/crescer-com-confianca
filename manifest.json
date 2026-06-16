@@ -1,0 +1,54 @@
+{
+  "name": "Crescer com Confiança",
+  "short_name": "Confiança",
+  "description": "Uma aplicação educativa, segura e responsável para raparigas adolescentes sobre higiene, saúde íntima, autocuidado, segurança pessoal e diário privado para o público de Portugal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf5ff",
+  "theme_color": "#a855f7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192-maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "lifestyle"
+  ],
+  "shortcuts": [
+    {
+      "name": "Guia Prático",
+      "short_name": "Guia",
+      "url": "/?tab=guia",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Diário Privado",
+      "short_name": "Diário",
+      "url": "/?tab=diario",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
